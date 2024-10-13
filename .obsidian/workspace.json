@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "37ac0c6916b41068",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16417d184f4eb6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acba219770d595c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "D&D/One-Shots/Lair of the Tinkerers/Images/Map.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "334406fe2f4c3528",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ff0e85e029c830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5c6b1815ee12c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d06cc243ec34f48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19370553bc85c7de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f307639fdd8b8c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a77aa5ad862ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09c22189a2b3ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/One-Shots/Lair of the Tinkerers/Images/Map.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b199075ff992d83c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/One-Shots/Lair of the Tinkerers/Images/Map.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "017bfc76663b4f03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e26cafbbe66c841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D&D/One-Shots/Lair of the Tinkerers/Images/Map.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "acba219770d595c3",
+  "lastOpenFiles": [
+    "D&D/One-Shots/Lair of the Tinkerers/Images/Entrance.jpg",
+    "D&D/One-Shots/Lair of the Tinkerers/Images/Map.png",
+    "D&D/One-Shots/Lair of the Tinkerers/Adventure.md",
+    "README.md",
+    "D&D/One-Shots/Lair of the Tinkerers/Images",
+    "Untitled.md",
+    "D&D/Campaigns",
+    "D&D/Characters",
+    "D&D/One-Shots/Lair of the Tinkerers",
+    "D&D/One-Shots"
+  ]
+}

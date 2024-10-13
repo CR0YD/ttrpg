@@ -1,0 +1,52 @@
+:is(.markdown-rendered p, p) {
+  margin: 0;
+  padding: 0;
+}
+
+.center-titles
+  :is(
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .HyperMD-header.HyperMD-header-1,
+    .HyperMD-header.HyperMD-header-2,
+    .HyperMD-header.HyperMD-header-3,
+    .HyperMD-header.HyperMD-header-4,
+    .HyperMD-header.HyperMD-header-5,
+    .HyperMD-header.HyperMD-header-6
+  ) {
+  text-align: center;
+}
+
+.indent-paragraphs
+  :is(
+    :is(
+      .cm-line,
+      .cm-html-embed
+    ):not(
+      .HyperMD-header.HyperMD-header-1,
+      .HyperMD-header.HyperMD-header-2,
+      .HyperMD-header.HyperMD-header-3,
+      .HyperMD-header.HyperMD-header-4,
+      .HyperMD-header.HyperMD-header-5,
+      .HyperMD-header.HyperMD-header-6
+    ):not(
+      :is(
+        .HyperMD-header.HyperMD-header-1,
+        .HyperMD-header.HyperMD-header-2,
+        .HyperMD-header.HyperMD-header-3,
+        .HyperMD-header.HyperMD-header-4,
+        .HyperMD-header.HyperMD-header-5,
+        .HyperMD-header.HyperMD-header-6
+      ) + :is(
+        .cm-line,
+        .cm-html-embed
+      )
+    ),
+    p:not(:first-child)
+  ) {
+  text-indent: 5%;
+}

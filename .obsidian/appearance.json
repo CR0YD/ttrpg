@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "CR0YD's General Tweaks"
+  ],
+  "theme": "obsidian"
+}
